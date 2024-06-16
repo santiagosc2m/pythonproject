@@ -44,4 +44,4 @@ The script writes a log file (`backup.log`) in the specified `folder_path` direc
 
 - Run the script to synchronize files between the local directory and Google Drive:
   ```bash
-  python backup_script.py
+  python GDrive_backup.py
