@@ -1,6 +1,7 @@
 # Google Drive Backup Automation
 
-This Python script automates the process of backing up files to Google Drive and keeping them synchronized.
+
+This Python script was written as a college project to automate the process of backing up files to Google Drive, implementing an incremental backup strategy.
 
 ## Requirements
 
@@ -22,6 +23,8 @@ This Python script automates the process of backing up files to Google Drive and
 
 3. **Script Configuration**
    - Set the `folder_path` variable to the directory path containing the files you want to back up.
+
+4. **Mannualy add this scrip in scheduled tasks**
 
 ## Script Overview
 
